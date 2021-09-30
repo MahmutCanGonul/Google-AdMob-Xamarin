@@ -71,8 +71,8 @@ Last Step:
 
 
 🥇Well Done your advertise is ready!! Now make money 🤑🤑🤑🤑🤑 
-
-![Screenshot_1631640751](https://user-images.githubusercontent.com/75094927/135500250-bd86bc5e-868b-4df0-a6bb-ea87d816f191.png)
+ <img src="https://user-images.githubusercontent.com/75094927/135500250-bd86bc5e-868b-4df0-a6bb-ea87d816f191.png" width="500" height="500">
+ 
 
 
 
